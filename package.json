@@ -4,7 +4,6 @@
   "description": "Healthcare Clinic Management System",
   "private": true,
   "workspaces": [
-    "backend",
     "frontend"
   ],
   "scripts": {
